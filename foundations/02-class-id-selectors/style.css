@@ -1,0 +1,19 @@
+.odd {
+    background-color: rosybrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#blueid {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenid{
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
